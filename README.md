@@ -9,8 +9,8 @@
 ## Repository
 **Github: [novel](https://github.com/steven-tey/novel)<br />
 Author: [Steven Tey](https://github.com/steven-tey)<br />
-Source Reference: [(novel/apps/web)](https://github.com/steven-tey/novel)**
-**Version: 0.3**
+Source Reference: [(novel/apps/web)](https://github.com/steven-tey/novel)<br />
+Version: 0.3**
 
 ---
 **Please star this [repo](https://github.com/steven-tey/novel) on GitHub and Support the Author [Steven Tey](https://github.com/steven-tey)**
