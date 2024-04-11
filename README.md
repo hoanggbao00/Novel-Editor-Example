@@ -39,7 +39,7 @@ npm install novel use-debounce lucide-react @tailwindcss/typography @radix-ui/re
 ```
 3. Clone this repository
 ```bash
-git clone 
+git clone https://github.com/hoanggbao00/Novel-Editor-Example.git
 ``` 
 4. Add following **[Shadcn UI](https://ui.shadcn.com/)** components: **Button, Command, Dialog, Popover, Separator, Sonner**
 5. Copy `components/editor` and `components/ui` in components to your project
