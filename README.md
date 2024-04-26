@@ -34,9 +34,9 @@ Drag and Drop Image in `advanced-editor.tsx`
 
 ## Usage
 1. Star this **[repo](https://github.com/steven-tey/novel)**
-2. Install following packages
+2. Install all package in `package.json`
 ```bash
-npm install novel use-debounce lucide-react @tailwindcss/typography @radix-ui/react-scroll-area
+npm install
 ```
 3. Clone this repository
 ```bash
